@@ -25,6 +25,7 @@
 
 ## ¿What is an sql injection?
 
+
 SQL Injection is a vulnerability that allows the attacker to send or "inject" SQL instructions in a malicious and malicious way within the SQL code programmed for the manipulation of databases, in this way all the stored data would be at risk. The purpose of this attack is to be able to modify the behaviour of our queries through unwanted parameters, thus being able to falsify identities, obtain and disclose information from the database (passwords, emails, relevant information, among others), delete the database, rename tables, cancel transactions, the attacker can become the administrator of the database.
 
 Once understood the definition we will see to acontinuacion what are the databases, for this we will perform several tasks that will help us with this purpose, this will teach us to understand how attacks of this type are made and is performed in a practical way.
